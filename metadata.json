@@ -1,0 +1,6 @@
+{
+  "name": "Task Manager",
+  "description": "A full-stack CRUD application for managing user tasks, featuring a clean UI, task filtering, statistics, and server-side persistent database storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
